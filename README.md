@@ -1,3 +1,5 @@
+# Archiving
+This repo was forked from probonopd/PrusaSlicer, which itself was a fork of prusa3D/PrusaSlicer [made after Prusa announced they would stop releasing the AppImage and switch to Flatpak](https://github.com/prusa3d/PrusaSlicer/issues/13653). I created this fork to make a build of the 2.9.1-alpha1 and beta1 releases, but probonodb has [now updated his AppImage build](https://github.com/probonopd/PrusaSlicer.AppImage), which should be used instead of mine.
 
 ![PrusaSlicer logo](/resources/icons/PrusaSlicer.png?raw=true)
 
